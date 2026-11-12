@@ -1,5 +1,3 @@
 my first git lab
 
 experiment number 5
-
-GCEM student 
